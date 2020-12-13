@@ -1,5 +1,5 @@
 # Mock-NBA-Database
 
 ## Schema Diagram
-![schema-diagram](NBA-DB/NBA_Relational_Schema_Diagram.pdf) 
+![schema-diagram](nba.JPG) 
 <p>The schema diagram of Mock NBA Database.</p>
